@@ -1,0 +1,24 @@
+# --- OS files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Temporary files ---
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.lock
+
+# --- Editor & IDE junk ---
+.vscode/
+.idea/
+*.iml
+
+# --- Archives you don't want versioned (optional) ---
+*.zip
+*.rar
+
+# --- System thumbnails ---
+._*
